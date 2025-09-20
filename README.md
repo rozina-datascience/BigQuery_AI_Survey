@@ -64,13 +64,13 @@ Enables better allocation of human resources
 
 ## 🛠️ Tools & Technologies
 
-| Tool / Technology | Purpose |
-|------------------|---------|
-| **BigQuery AI** | Summarization, structured insight generation, forecasting |
-| **BigFrames (Python)** | AI-powered structured analysis via `GeminiTextGenerator` and vector search |
-| **Hugging Face Transformers** | Open-source summarization of unstructured survey responses |
-| **Python & Pandas** | Data cleaning, preprocessing, aggregation |
-| **Markdown & GitHub** | Documentation and workflow presentation |
+| Tool / Technology             |                       Purpose                                                                    
+|------------------             |---------                                                             --------- |
+| **BigQuery AI**               | Summarization, structured insight generation, forecasting                      |
+| **BigFrames (Python)**        | AI-powered structured analysis via `GeminiTextGenerator` and vector search     |  
+| **Hugging Face Transformers** | Open-source summarization of unstructured survey responses                     |
+| **Python & Pandas**           | Data cleaning, preprocessing, aggregation                                      |
+| **Markdown & GitHub**         | Documentation and workflow presentation                                        |
 
 ---
 
