@@ -1,5 +1,6 @@
 # BigQuery_AI_Survey
-# 📌 “AI-Powered Survey Insights with BigQuery and Hugging Face”
+#
+📌 “AI-Powered Survey Insights with BigQuery and Hugging Face”
 
 ---
 
@@ -13,7 +14,17 @@ Our solution leverages **BigQuery AI** and **Hugging Face Transformers** to auto
 - Generate actionable insights  
 - Demonstrate feasibility of AI summarization under billing restrictions
 
----
+🌍 Problem Statement
+Organizations collect massive amounts of textual data, but hidden insights remain difficult to extract:
+
+Support teams struggle to find semantically similar tickets due to minor differences in wording.
+Survey responses contain overlapping concerns and subtle sentiment patterns.
+Product feedback and descriptions often contain valuable but overlooked trends.
+Solution: Implement the Semantic Detective pipeline using embeddings, FAISS, and summarization models to:
+
+Map questions to responses
+Identify semantic similarity
+Aggregate results for actionable insights
 
 ## 🌍 Impact
 
